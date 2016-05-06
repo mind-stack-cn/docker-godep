@@ -1,4 +1,4 @@
-# Godep 
+# Godep
 #
 # VERSION              1.0
 
@@ -8,6 +8,6 @@ MAINTAINER oceanwu<wuhaiyang1213@gmail.com>
 
 LABEL version = "1.0"
 
-LABEL description = "Golang && Gpdep"
+LABEL description = "Golang && Godep"
 
 RUN go get github.com/tools/godep
